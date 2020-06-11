@@ -1,0 +1,39 @@
+{
+  "keyboard_name": "The Toddle Pad",
+  "url": "",
+  "maintainer": "The-Royal",
+  "width": 7,
+  "height": 4,
+  "layouts": {
+   "LAYOUT_mit": {
+    "key_count": 20,
+      "layout": [
+        {"label":"", "x":1, "y":0},
+        {"label":"", "x":2, "y":0},
+        {"label":"", "x":3, "y":0},
+        {"label":"", "x":4, "y":0},
+        {"label":"", "x":5, "y":0},
+
+        {"label":"", "x":1, "y":1},
+        {"label":"", "x":2, "y":1},
+        {"label":"", "x":3, "y":1},
+        {"label":"", "x":4, "y":1},
+        {"label":"", "x":5, "y":1},
+
+        {"label":"", "x":1, "y":2},
+        {"label":"", "x":2, "y":2},
+        {"label":"", "x":3, "y":2},
+        {"label":"", "x":4, "y":2},
+        {"label":"", "x":5, "y":2},
+
+        {"label":"", "x":0, "y":2.5, "h":1.5},
+
+        {"label":"", "x":1, "y":3, "w":1.5},
+        {"label":"", "x":2.5, "y":3, "w":2},
+        {"label":"", "x":4.5, "y":3, "w":1.5},
+
+        {"label":"", "x":6, "y":2.5, "h":1.5},
+      ]
+    }
+  }
+}
